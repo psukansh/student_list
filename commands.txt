@@ -1,0 +1,8 @@
+
+follow these commands
+
+start server and database from xampp
+
+npm install
+
+node app.js
